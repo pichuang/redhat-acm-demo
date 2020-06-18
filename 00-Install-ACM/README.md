@@ -13,7 +13,7 @@
 ![](/images/developer-view.png)
 
 - Show Pods Status
-![](/images/pods-statys.png)
+![](/images/pods-status.png)
 
 ## References
 - [Install OpenShift Container Platform 4 - Pull Secret][1]
