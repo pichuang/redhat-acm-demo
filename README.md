@@ -1,5 +1,3 @@
-![](/images/redhat-slogan.jpg)
-
 # Phil's Red Hat Advanced Cluster Management for Kubernetes Demo
 
 ![](/images/rhacm-banner.png)
