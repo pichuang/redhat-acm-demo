@@ -2,6 +2,9 @@
 
 - Please *REMEMBER* to download Pull Secret from cloud.redhat.com
 - Put the secret into `.data.dockerconfigjson` in `redhat-secret.yaml`
+- Prepare 3 persisten volumes
+
+![](/images/pvc.png)
 
 # Period of installation
 
