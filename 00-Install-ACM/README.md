@@ -3,6 +3,18 @@
 - Please *REMEMBER* to download Pull Secret from cloud.redhat.com
 - Put the secret into `.data.dockerconfigjson` in `redhat-secret.yaml`
 
+# Period of installation
+
+> Around ~30m in online environment
+
+# Screenshot
+
+- Final Topology View
+![](/images/developer-view.png)
+
+- Show Pods Status
+![](/images/pods-statys.png)
+
 ## References
 - [Install OpenShift Container Platform 4 - Pull Secret][1]
 - [Red Hat Red Hat Advanced Cluster Management for Kubernetes Team - Install][2]
