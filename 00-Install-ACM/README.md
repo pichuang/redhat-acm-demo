@@ -15,6 +15,9 @@
 - Show Pods Status
 ![](/images/pods-status.png)
 
+- Index
+![](/images/acm-index.png)
+
 ## References
 - [Install OpenShift Container Platform 4 - Pull Secret][1]
 - [Red Hat Red Hat Advanced Cluster Management for Kubernetes Team - Install][2]
