@@ -2,11 +2,11 @@
 
 ![](/images/rhacm-banner.png)
 
-> Last Update: *20200706*
+> Last Update: *20201111*
 
 ## Test Environment
-- Red Hat OpenShift Container Platform (RHOCP): *4.4.6* / *4.3.27*
-- Red Hat Advanced Cluster Management for Kubernetes (RHACM): *release-1.0*
+- Red Hat OpenShift Container Platform (RHOCP): *4.6.3*
+- Red Hat Advanced Cluster Management for Kubernetes (RHACM): *acm-2.1*
 
 
 ## Agenda
