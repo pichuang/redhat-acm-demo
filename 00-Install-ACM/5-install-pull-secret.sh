@@ -6,6 +6,7 @@ echo "Copy Pull Secret: https://cloud.redhat.com/openshift/install/pull-secret"
 echo "Put it into config.json"
 
 oc create secret generic redhat-registry \
+	-n open-cluster-management \
 	--from-file=.dockerconfigjson=config.json \
     --type=kubernetes.io/dockerconfigjson
 
